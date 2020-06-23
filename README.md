@@ -47,4 +47,7 @@ BR-UserProfile.ps1
 
 
 
-
+*Features to add*
+- built-in Auth mechanism for restoring without manual auth to share first
+- progress bar for file transfers
+- clearing cache content from Google/Firefox prior to backup
